@@ -3,7 +3,7 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "AMAAN"
-Hobby = ['『ʏᴏᴜᴛᴜʙᴇʀ-ʜᴀᴄᴋᴇʀ-ᴄʀᴀᴄᴋᴇʀ-ᴛᴀʟᴇɴᴛᴇᴅ ᴘᴇʀsᴏɴ-ɢᴀᴍᴇʀ-ᴍᴀᴛʟᴀʙ sᴀᴍᴊʜᴏ-ʏʀʀ』@ᴋɪɴɢ':  '❣️']
+Hobby = ['@CrimiNaL786 is One OF MosT Respected Personality in the world He Himself is A All-arounder worker that he want to do he learns and become master in that.':  '❣️']
 Age = "19"
 Country = "🇮🇳"
 ```
