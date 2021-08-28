@@ -8,7 +8,7 @@ Age = "19"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/『 ツᴅɪᴄͥᴛᴀᴛᴏͣʀͫ乛ᴀᴍᴀᴀɴ々』-30302f?style=for-the-badge&logo=telegram)](https://t.me/CRIMINAL786)
+[![telegram badge](https://img.shields.io/badge/@CRIMINAL786-30302f?style=for-the-badge&logo=telegram)](https://t.me/CRIMINAL786)
 [![mailid badge](https://img.shields.io/badge/AMAAN THE GAMER KING-30302f?style=for-the-badge&logo=gmail)](mailto:AMAANTHEGAMERKING@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CRIMINAL786&label=Profile%20Views&color=orange&style=flat-square" alt="CRIMINAL786" /> </p>
 
