@@ -9,7 +9,7 @@ Country = "🇮🇳"
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/@CRIMINAL786-30302f?style=for-the-badge&logo=telegram)](https://t.me/CRIMINAL786)
-[![mailid badge](https://img.shields.io/badge/AMAAN THE GAMER KING-30302f?style=for-the-badge&logo=gmail)](mailto:AMAANTHEGAMERKING@gmail.com)
+[![mailid badge](https://img.shields.io/badge/AMAAN-30302f?style=for-the-badge&logo=gmail)](mailto:AMAANTHEGAMERKING@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CRIMINAL786&label=Profile%20Views&color=orange&style=flat-square" alt="CRIMINAL786" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
