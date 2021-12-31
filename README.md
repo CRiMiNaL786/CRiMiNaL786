@@ -3,8 +3,8 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "AMAAN"
-Hobby = ['Hacking•Cracking•LoGo-MakinG•DiGiTaL-Creating•Developing-Applications•Youtubing':  '❣️']
-Age = "19"
+Hobby = ['Hacking•Cracking•LoGo-MakinG•DiGiTaL-Creating•Developing-Applications•YoutubinG':  '❣️']
+Age = "20"
 Country = "🇮🇳"
 ```
 #### 
